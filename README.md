@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BonafideRube
+- I am totally new to programming but willing to learn
+- I'll put my email here when I feel like it:
